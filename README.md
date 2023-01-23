@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Cooper
 - 👀 I’m interested in Public Cloud Computing, High-performance Computing, Cyber Security and Machine Learning.
-- 🌱 I’m currently working in China Telecom Global Ltd.
+- 🌱 I’m currently working in China Telecom Ltd.
 - 💞️ I’m looking to collaborate on all cloud vendors, DICT and network project.
-- 📫 How to reach me? kunpeng.li@chinatelecomglobal.com
+- 📫 How to reach me? 
 
 Pleasure to e-meet you! 
 
